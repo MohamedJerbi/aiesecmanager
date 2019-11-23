@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aiesecmanager/static/css/main.b100e6da.chunk.css",
-    "main.js": "/aiesecmanager/static/js/main.581217af.chunk.js",
-    "main.js.map": "/aiesecmanager/static/js/main.581217af.chunk.js.map",
+    "main.js": "/aiesecmanager/static/js/main.50cfd576.chunk.js",
+    "main.js.map": "/aiesecmanager/static/js/main.50cfd576.chunk.js.map",
     "runtime-main.js": "/aiesecmanager/static/js/runtime-main.e4bf8248.js",
     "runtime-main.js.map": "/aiesecmanager/static/js/runtime-main.e4bf8248.js.map",
     "static/js/2.ffe0c23a.chunk.js": "/aiesecmanager/static/js/2.ffe0c23a.chunk.js",
     "static/js/2.ffe0c23a.chunk.js.map": "/aiesecmanager/static/js/2.ffe0c23a.chunk.js.map",
     "index.html": "/aiesecmanager/index.html",
-    "precache-manifest.31bfa44b2d4c227fc5ad1c98de65c7e5.js": "/aiesecmanager/precache-manifest.31bfa44b2d4c227fc5ad1c98de65c7e5.js",
+    "precache-manifest.ae1b1f238902373f0957f8452e983b7a.js": "/aiesecmanager/precache-manifest.ae1b1f238902373f0957f8452e983b7a.js",
     "service-worker.js": "/aiesecmanager/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/aiesecmanager/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/aiesecmanager/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e4bf8248.js",
     "static/js/2.ffe0c23a.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.581217af.chunk.js"
+    "static/js/main.50cfd576.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bcae6ba5c48302629e210a6e29680b56",
+    "revision": "2ca99c7603938ea16bddfa62320f5141",
     "url": "/aiesecmanager/index.html"
   },
   {
-    "revision": "1752f99c524f794c10d5",
+    "revision": "26814f4f231f68a33b41",
     "url": "/aiesecmanager/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aiesecmanager/static/js/2.ffe0c23a.chunk.js"
   },
   {
-    "revision": "1752f99c524f794c10d5",
-    "url": "/aiesecmanager/static/js/main.581217af.chunk.js"
+    "revision": "26814f4f231f68a33b41",
+    "url": "/aiesecmanager/static/js/main.50cfd576.chunk.js"
   },
   {
     "revision": "1363fb2e2084c0abe018",
